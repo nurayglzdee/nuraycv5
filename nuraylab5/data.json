@@ -1,0 +1,35 @@
+{
+  "name": "Nuray Quluzadə",
+  "title": "İnformasiya Təhlükəsizliyi üzrə Tələbə",
+  "contact": {
+    "phone": "+994 70 864 19 05",
+    "email": "nurayquluzade2006@icloud.com",
+    "location": "Bakı, Azərbaycan",
+    "website": "www.nurayquluzade.az"
+  },
+  "profile": "İnformasiya təhlükəsizliyi üzrə həvəskar tələbəyəm, proqramlaşdırma və şəbəkə sahəsində təcrübə qazanıram.",
+  "education": [
+    "Azərbaycan Texniki Universiteti, İnformasiya Təhlükəsizliyi (2024-2028)"
+  ],
+  "skills": [
+    "Proqramlaşdırma (Python, C++)",
+    "Şəbəkə təhlükəsizliyi",
+    "Web inkişafı (HTML, CSS, JavaScript)"
+  ],
+  "languages": [
+    "Azərbaycan dili (Ana dili)",
+    "İngilis dili (B1)",
+    "Rus dili (A2)"
+  ],
+  "experience": "2024-cü ildə IT layihələrdə könüllü olaraq iştirak etmişəm.",
+  "projects": [
+    {
+      "name": "Web Tətbiqi",
+      "description": "HTML, CSS və JavaScript istifadə edərək sadə bir web tətbiqi yaratdım."
+    },
+    {
+      "name": "Python Proqramı",
+      "description": "Python dilində məlumat analizi üçün bir proqram yazdım."
+    }
+  ]
+  }
